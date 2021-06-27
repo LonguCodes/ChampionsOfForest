@@ -1,0 +1,90 @@
+<Mod ID="ChampionsOfForest">
+  <Compatible>1.11b</Compatible>
+  <Button Standard="F4" ID="MenuToggle">
+    <Name>
+      <EN>Toggle Menu</EN>
+    </Name>
+    <Description>
+      <EN>opens and closes the main menu</EN>
+    </Description>
+  </Button>
+  <Button Standard="Alpha6" ID="spell1">
+    <Name>
+      <EN> First Spell</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="Alpha7" ID="spell2">
+    <Name>
+      <EN>Second Spell</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="Alpha8" ID="spell3">
+    <Name>
+      <EN>Third Spell</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="T" ID="spell4">
+    <Name>
+      <EN>Forth Spell</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="Y" ID="spell5">
+    <Name>
+      <EN> Fifth Spell</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="U" ID="spell6">
+    <Name>
+      <EN>Sixth Spell</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="E" ID="ItemPickUp">
+    <Name>
+      <EN>Pick up items</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="Alpha5" ID="EquipWeapon">
+    <Name>
+      <EN>Equip custom weapon</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
+  <Button Standard="Z" ID="ping">
+    <Name>
+      <EN>Ping Object</EN>
+    </Name>
+    <Description>
+      <EN>Sygnalize a item, enemy or location to other players. hold z and rightclick to mark an enemy</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Champions of The Forest</EN>
+  </Name>
+  <Description>
+    <EN>Champs is the smallest mod. Adds no content whatsoever. I never lie. Check key binds if launching for the first time</EN>
+  </Description>
+  <Version>1.6.1</Version>
+</Mod>
